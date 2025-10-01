@@ -1,0 +1,101 @@
+/* =================== TIPOGRAFÍAS =================== */
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700&family=Roboto:wght@400;500&display=swap');
+
+body {
+  font-family: 'Roboto';
+  background-color: #0A0A0F; 
+  color: #EAEAEA; 
+}
+
+/* Títulos */
+h1, h2, h3, h4, .navbar-brand {
+  font-family: 'Orbitron';
+  font-weight: 700;
+  color: #00C8FF; 
+}
+
+/* =================== NAVBAR =================== */
+.navbar {
+  background-color: #1E1E2F !important; 
+}
+.navbar .nav-link {
+  color: #EAEAEA !important;
+}
+/* .active --> afecta al enlace activo */
+.navbar .nav-link.active {
+  color: #00C8FF !important; 
+  font-weight: bold;
+}
+
+/* =================== TARJETAS =================== */
+.card {
+  background-color: #1E1E2F; 
+  border: none;
+  color: #EAEAEA;
+}
+.card-title {
+  color: #00C8FF; 
+}
+.card .btn-primary {
+  background-color: #00C8FF !important;
+  border: none;
+}
+.card .btn-primary:hover {
+  background-color: #0099cc !important; 
+}
+
+/* =================== TABLAS =================== */
+.table {
+  color: #EAEAEA;
+}
+.table thead {
+  background-color: #1E1E2F; 
+  color: #00C8FF; 
+}
+
+/* =================== FOOTER =================== */
+footer {
+  background-color: #1E1E2F; 
+  color: #EAEAEA;
+  padding: 20px 0;
+  text-align: center;
+}
+
+/* =================== FORMULARIOS =================== */
+.form-control {
+  background-color: #1E1E2F;
+  border: 1px solid #00C8FF;
+  color: #EAEAEA;
+}
+/*:focus --> afecta cuando el input está seleccionado */
+.form-control:focus {
+  border-color: #00FF88; 
+  box-shadow: 0 0 5px #00FF88;
+}
+.btn-primary {
+  background-color: #00C8FF !important;
+  border: none;
+}
+.btn-primary:hover {
+  background-color: #0099cc !important;
+}
+/* ALERTA */
+.alert-danger {
+  background-color: #FF3864; 
+  color: #fff;
+  border: none;
+  font-weight: 500;
+}
+.footer {
+  background-color: #1E1E2F; 
+}
+
+.footer a:hover {
+  color: #00C8FF; 
+}
+.footer a {
+  color: #EAEAEA; 
+  text-decoration: none;
+}
+
+
