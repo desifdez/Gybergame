@@ -48,5 +48,6 @@ El proyecto se desarrolló en un entorno **local** utilizando **Visual Studio Co
 ## Seguimiento del proyecto
 
 Puedes ver el tablero del progreso del proyecto en GitHub Projects aquí:
+<br>
 [Cybergame - Backlog ](https://github.com/users/desifdez/projects/4/views/1)
 
