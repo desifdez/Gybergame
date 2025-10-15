@@ -45,5 +45,8 @@ La visualización de los colores originales en el siguiente enlace:
 
 El proyecto se desarrolló en un entorno **local** utilizando **Visual Studio Code** como editor de código.  
 
+## Seguimiento del proyecto
 
+Puedes ver el tablero del progreso del proyecto en GitHub Projects aquí:
+[Cybergame - Backlog ](https://github.com/users/desifdez/projects/4/views/1)
 
