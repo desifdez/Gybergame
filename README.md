@@ -1,31 +1,47 @@
-#  CyberGame – Plataforma de Ciberseguridad Gamificada
+# CyberGame – Plataforma Gamificada de Ciberseguridad  
 
-##  Contexto
-Este proyecto es una aplicación web diseñada como una práctica para adquirir habilidades en **Bootstrap 5**.  
-La idea que me ha surgido es una plataforma de **ciberseguridad gamificada** con la que los usuarios pueden:
-- Investigar torneos y eventos relacionados con el hacking ético.
-- Inscribirse en diferentes niveles (Principiante, Intermedio, Avanzado).
-- Comunicarse con la organización a través de un formulario.
-- Navegar de manera responsive desde cualquier equipo.
+## Contexto
+**CyberGame** es una aplicación web desarrollada como práctica para el aprendizaje de **HTML5**, **CSS3**, **Bootstrap 5** y **jQuery**.  
+Su meta es ofrecer una **plataforma gamificada** para que los usuarios puedan descubrir eventos y torneos de ciberseguridad, inscribirse y contactar a la organización.
 
----
-
-##  Autora
-- Desiré Rubio Fernández 
+El proyecto busca integrar lo siguiente:
+- Navegación dinámica entre secciones (sin recargar la página).
+- Interacción con **jQuery** (formularios, buscador, modales).
+- Diseño **responsive** utilizando **Bootstrap**.
+- Una **guía de estilos personalizada** con una estética **tecnológica y oscura**.
 
 ---
 
-##  Fuentes tipográficas
-- **Heading:** [Orbitron](https://fonts.google.com/specimen/Orbitron) (Google Fonts)  
-- **Body:** [Roboto](https://fonts.google.com/specimen/Roboto) (Google Fonts)  
+## Autora
+**Desiré Rubio Fernández**  
 
 ---
 
-##  Paleta de colores
+## Tecnologías utilizadas
 
-- **Primary:**  
-  🔵  → `#00C8FF`  
-- **Secondary:**  
-  ⚫ → `#1E1E2F`  
-- **Alert:**  
-  🔴  → `#FF3864`  
+| Tecnología | Uso principal |
+|-------------|----------------|
+| **HTML5** | Estructura  de la página |
+| **CSS3** | Personalización del diseño y la paleta de colores |
+| **Bootstrap5** | Sistema de rejillas, estructura responsive y modales |
+| **jQuery** | Interactividad, manipulación del DOM, validaciones y efectos |
+| **Google Fonts** | Tipografías *Orbitron* (Heading) y *Roboto* (body) |
+
+---
+
+## Paleta de colores 
+
+- **Primary:** 🔵 → #00C8FF 
+- **Secondary:** ⚫ → #1E1E2F
+- **Alert:** 🔴 → #FF3864
+La visualización de los colores originales en el siguiente enlace:
+(https://coolors.co/00c8ff-1e1e2f-ff3864)
+
+---
+
+## Entorno de desarrollo
+
+El proyecto se desarrolló en un entorno **local** utilizando **Visual Studio Code** como editor de código.  
+
+
+
