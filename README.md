@@ -35,7 +35,8 @@ El proyecto busca integrar lo siguiente:
 - **Secondary:** ⚫ → #1E1E2F
 - **Alert:** 🔴 → #FF3864
 La visualización de los colores originales en el siguiente enlace:
-(https://coolors.co/00c8ff-1e1e2f-ff3864)
+
+[https://coolors.co/00c8ff-1e1e2f-ff3864](https://coolors.co/00c8ff-1e1e2f-ff3864)
 
 ---
 
